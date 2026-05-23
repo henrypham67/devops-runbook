@@ -3,22 +3,14 @@
 > Maintained with the devops-career-coach skill. Keep this in your runbook repo.
 > Paste this file at the start of a coaching session; commit the updated version after.
 
-## Snapshot
-- **Name:** Minh Hieu Pham
-- **Target role:** Senior Platform Engineer / SRE — confirm lean
-- **Current stage:** Stage 3 — Platform & Reliability Depth (Senior track)
-- **Started:** 2026-05-23 (coached journey; 5+ yrs prior DevOps experience)
-- **Last updated:** 2026-05-23
-- **Weekly time budget:** ~7 hours/week
-
 ## Competency self-ratings
 Scale: 0 none · 1 fresher · 2 junior · 3 mid · 4 senior
 > Derived from CV — provisional. Adjust any that don't match your real depth.
 
 | Area | Rating | Notes |
 |---|---|---|
-| Linux & systems | 3 | Years of Linux production (Ubuntu, CentOS) |
-| Networking | 3 | VPC, service mesh, cross-AZ; Istio mTLS |
+| Linux & systems | 2 | Years of Linux production (Ubuntu, CentOS) |
+| Networking | 2 | VPC, service mesh, cross-AZ; Istio mTLS |
 | Programming & automation | 3 | Go + Python CLI tools, Bash; backend dev background |
 | Cloud fundamentals | 3 | AWS SA + SysOps certified; EKS/ECS/EC2/IAM/VPC |
 | Containers & orchestration | 3 | CKAD; EKS/ECS migrations, RBAC, Istio |
@@ -26,9 +18,9 @@ Scale: 0 none · 1 fresher · 2 junior · 3 mid · 4 senior
 | CI/CD & delivery | 3 | GitLab CI, GHA, Jenkins, ArgoCD, FluxCD; -30% build time |
 | Observability | 3 | Full OTel stack — Mimir, Tempo, Loki, Grafana, Alertmanager |
 | Reliability / SRE | 2 | GAP: reliability practices yes; no SLO/error-budget/incident-command discipline |
-| Security / DevSecOps | 3 | Strong — SonarQube/OWASP gates, RBAC, mTLS, zero critical CVEs |
+| Security / DevSecOps | 2 | Strong — SonarQube/OWASP gates, RBAC, mTLS, zero critical CVEs |
 | Platform engineering | 2 | GAP: strong infra automation; no IDP-as-product / golden paths / portal |
-| Scope & ownership | 3 | Owns DevOps services end to end; led EC2→EKS migration |
+| Scope & ownership | 2 | Owns DevOps services end to end; led EC2→EKS migration |
 | Architecture & judgment | 2 | Does architectural work (lakehouse, mesh); gap is owning + documenting system design (ADRs) — may be 3, confirm |
 | Influence & communication | 2 | Effective within team; cross-stakeholder influence unproven |
 | Mentoring & multiplying | 2 | GAP: informal guidance given; no deliberate, sustained mentoring practice |
@@ -48,11 +40,6 @@ Scale: 0 none · 1 fresher · 2 junior · 3 mid · 4 senior
 - M3.1 SLOs & error budgets — formalize reliability for a real service
 - M3.2 Incident management — run an incident; write a blameless postmortem
 - M3.5 Internal Developer Platform — build a self-service golden path
-
-## Portfolio
-- github.com/henrypham67 — existing GitHub (audit what's public and presentable)
-- NOTE: current evidence is employment, not public artifacts. A Senior portfolio
-  needs public proof — every Stage 3 lab should leave a repo here.
 
 ## Active labs
 - (none yet)
